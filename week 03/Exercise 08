@@ -19,7 +19,7 @@ public class Exercise08 : MonoBehaviour
         hash["goblin"] = goblin;
 
         //요소 추가 Add 메소드
-        hash.Add("slime", slime);
+        hash.Add("Slime", slime);
         hash.Add(1, "정수");
         hash.Add(1.2f, "실수");
         hash.Add("안녕하세요", "문자열");
